@@ -2,7 +2,7 @@
 
 Notes and resources for Machine Learning presentation given on 5/23
 
-## Summary - What Is Machine Learning
+## Presentation Summary - What Is Machine Learning
 
 Problems that are good opportunities for machine learning are typically:
 1) Data driven
@@ -17,6 +17,11 @@ What to look for - these kinds of questions are a tipoff that ML might be applic
 * Basically, if the question is "can we automatically do ______ based on some data?" then it might be a good candidate for machine learning
     * (Assuming, of course, that you have the data)
 
+## On The Importance Of Product Design
+
+From the Facebook Research [Field Guide to Machine Learning](https://research.fb.com/the-facebook-field-guide-to-machine-learning-video-series/), rigorously defining the problem you want to solve up front "can save many weeks work further downstream, preventing you from solving the wrong problem." You should try to clearly define what success looks like and how do you measure or quantify that success. This can be important aspect of software development in general, but it's even more important with machine learning because those measurements are literally what ML algorithms will be using to train their predictions. If you feed the wrong question into your ML algorithm, you're probably going to get the wrong answer.
+
+The first video in the series, [Lesson 1: Problem definition (6 min)](https://research.fb.com/videos/field-guide-to-machine-learning-lesson-1-problem-definition/), is a good watch for product managers. And [the rest of the series](https://research.fb.com/the-facebook-field-guide-to-machine-learning-video-series/) is highly recommended for anyone technical on your teams that is interested in applying machine learning.
 
 ## Study Groups / Focus Groups
 
