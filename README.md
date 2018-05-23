@@ -6,7 +6,7 @@ Notes and resources for Machine Learning presentation given on 5/23
 
 Problems that are good opportunities for machine learning are typically:
 1) Data driven
-2) Difficult to codify into rules (i.e. require "intuition")
+2) Difficult to codify into rules (i.e. require intuition or judgement)
 3) But are tedious for a human to perform
 
 What to look for - these kinds of questions are a tipoff that ML might be applicable to your problem:
