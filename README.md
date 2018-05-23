@@ -2,7 +2,7 @@
 
 Notes and resources for Machine Learning presentation given on 5/23
 
-# Summary - What Is Machine Learning
+## Summary - What Is Machine Learning
 
 Problems that are good opportunities for machine learning are typically:
 1) Data driven
