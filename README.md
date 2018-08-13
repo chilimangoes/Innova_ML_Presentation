@@ -9,11 +9,6 @@ For those interested in learning more about machine learning, Gradon Faulkner ha
 * [Session 1](https://github.com/chilimangoes/Innova_ML_Presentation/blob/master/Machine%20Learning%20for%20Product%20Managers.pptx)
 * [Session 2](https://github.com/chilimangoes/Innova_ML_Presentation/blob/master/Machine%20Learning%20for%20Developers.pptx)
 
-Videos
-
-* [Session 1](https://github.com/chilimangoes/Innova_ML_Presentation/blob/master/Machine%20Learning%20for%20Product%20Managers.pptx)
-* Session 2 (will be posted as soon as available)
-
 ## Study Groups / Focus Groups
 
 Please contact either Jacob Eggleston or Jim Kilty if you or any of your team members are interested in learning about ML, contributing to the company's ML POC projects, or simply have machine learning related ideas you would like to run by us.
